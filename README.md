@@ -68,3 +68,9 @@ Day 5: Game Over and Reset (/):
 Added functionality to detect game over scenarios (win, draw).
 Implemented a reset button to start a new game.
 Polished the UI for a visually appealing game experience.
+
+LinkedIn: [https://www.linkedin.com/in/raj-gadhavi0125/]
+
+Email: [rajgadhavi0125@gmail.com]
+
+Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
